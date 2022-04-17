@@ -1,0 +1,35 @@
+.homebg{
+    background-image:url('../images/background.jpg');
+    background-position: bottom right;
+    background-repeat:repeat;
+}
+
+.aboutbg{
+    background-image:url('../images/white_background.jpeg');
+    background-position: bottom right;
+    background-repeat:repeat;
+}
+
+li{
+    color:rgb(119, 116, 116);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:lighter;
+}
+
+.underline{text-decoration: underline;}
+
+.titlefont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+}
+
+.linktext{
+    color:rgb(119, 116, 116);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:lighter;
+}
+
+.menufont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold
+}

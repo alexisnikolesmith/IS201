@@ -1,0 +1,49 @@
+.tableaubg {
+    background-image:url('../images/tableaubg.jpeg');
+    background-position: top right;
+    background-repeat:repeat;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    text-align: right;
+}
+
+.menufont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.mainbody{
+    top: 40px;
+    left: 20px;
+    right: 20px;
+    bottom: 64px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    font-size: 15px;
+    color: #999999;
+    text-align:center;
+}
+
+.caption{
+    color:rgb(70, 68, 68);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+}
+
+.text{
+    color:rgb(70, 68, 68);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:lighter;
+    font-size:18px;
+}
